@@ -1,0 +1,8 @@
+How to execute the project:
+
+requirement:
+	java running environment.
+Steps:
+	1. open terminal.
+	2. find the directory of the proj.jar file.
+	3. run "java -jar proj.jar" command.
